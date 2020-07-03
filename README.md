@@ -12,7 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 | July 14, 15, 16, 17 (Tu-F);   | July 13, 14, 15, 16, 17 (M-Th)        |
 | all at 08:30-10:05 China Time | all at 5:30pm PT - 7:05pm PT |
 
-[Add to Google Calendar](<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnVtNW02MGNsMjhpbzNtY2NzMmdtMzRzaTNfMjAyMDA3MDdUMDAzMDAwWiBzY290dC5tb3VyYUBt&amp;tmsrc=scott.moura%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>)
+**Add to Google Calendar:**
+(<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NnVtNW02MGNsMjhpbzNtY2NzMmdtMzRzaTNfMjAyMDA3MDdUMDAzMDAwWiBzY290dC5tb3VyYUBt&amp;tmsrc=scott.moura%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>)
 
 ### Day-by-Day Schedule
 
@@ -54,6 +55,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       - Case Study: Inverted Pendulum
 5. Q-Learning
 
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -85,3 +87,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
