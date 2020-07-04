@@ -35,7 +35,7 @@ TA Xinyi Zhou (TBSI)
 | 5 | 5a. Actor-Critic Method | Scott Moura   | | |
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | |
 | 6 | 6a. Q-Learning | Saehong Park  | | |
-|   | 6b. Policy Gradient / Actor-Critic | Saehong Park   | | |
+|   | 6b. Q-Learning / Policy Gradient | Saehong Park   | | |
 | 7 | 7a. Policy Gradient / Actor-Critic | Saehong Park  | | |
 |   | 7b. Actor-Critic | Saehong Park   | | |
 | 8 | 8a. RL for Energy Systems | Saehong Park  | | |
