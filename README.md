@@ -34,12 +34,12 @@ TA Xinyi Zhou (TBSI)
 |   | 4c. Online RL with ADP | Scott Moura   | | |
 | 5 | 5a. Actor-Critic Method | Scott Moura   | | |
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | |
-| 6 | 6a.  | Saehong Park  | | |
-|   | 6b.  | Saehong Park   | | |
-| 7 | 7a.  | Saehong Park  | | |
-|   | 7b.  | Saehong Park   | | |
-| 8 | 8a.  | Saehong Park  | | |
-|   | 8b.  | Saehong Park   | | |
+| 6 | 6a. Q-Learning | Saehong Park  | | |
+|   | 6b. Policy Gradient | Saehong Park   | | |
+| 7 | 7a. Actor Critic | Saehong Park  | | |
+|   | 7b. Case Study: Offshore Wind | Saehong Park   | | |
+| 8 | 8a. RL for Energy Systems | Saehong Park  | | |
+|   | 8b. Case Study: Battery Fast-charging | Saehong Park   | | |
 
 
 ### Topic Outline
@@ -55,8 +55,18 @@ TA Xinyi Zhou (TBSI)
       - Case Study: LQR
    3. Online RL with ADP
    4. Actor-Critic Method
-      - Case Study: Inverted Pendulum
+      - Case Study: Offshore Wind
 5. Q-Learning
+   1. Q-learning algorithm
+   2. Advanced Q-learning algorithm, i.e., DQN
+6. Policy Gradient
+   1. Vanilla policy gradient (REINFORCE)
+7. Actor-Critic using Policy Gradient
+   1. Actor-Critic using Policy Gradient
+   2. Advanced Actor-Critic algorithm, i.e., DDPG
+8. RL for energy systems
+   1. Case Study: Battery Fast-charging
+   
 
 <!--
 ### Markdown
