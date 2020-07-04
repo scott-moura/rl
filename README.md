@@ -1,8 +1,11 @@
 ## Introduction to Reinforcement Learning
 
-You can use the [editor on GitHub](https://github.com/scott-moura/rl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley Shenzhen Institute (TBSI).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructors
+Prof. Scott Moura (UC Berkeley)
+Co-Instructor Saehong Park (UC Berkeley)
+TA Xinyi Zhou (TBSI)
 
 ### Course Schedule
 
