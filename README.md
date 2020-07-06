@@ -3,9 +3,9 @@
 Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley Shenzhen Institute (TBSI).
 
 ### Instructors
-- Prof. Scott Moura (UC Berkeley)
-- Co-Instructor Saehong Park (UC Berkeley)
-- TA Xinyi Zhou (TBSI)
+- Prof. Scott Moura (UC Berkeley) <smoura [at] berkeley.edu>
+- Co-Instructor Saehong Park (UC Berkeley) <sspark [at] berkeley.edu>
+- TA Xinyi Zhou (TBSI) <zxyyx48 [at] 163.com>
 
 ### Course Schedule
 
@@ -67,6 +67,10 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 8. RL for energy systems
    1. Case Study: Battery Fast-charging
    
+
+### Lectures Notes
+- [2019 Lecture Notes](Notes/LectureNotes_2019.pdf)
+
 
 <!--
 ### Markdown
