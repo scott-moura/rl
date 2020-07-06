@@ -26,7 +26,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 1b. Introduction – History of RL  | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/wstyK7bC5FJLGdKUsl6GWYssFICmX6a813dK86IKyE_pN5u-bIIahg1i3Qd79l63) PW: 1k.E69^o | [LEC1a Slides](LEC/LEC1b-Motivation.pdf) |
 |   | 1c. Optimal Control Intro  | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/w9dtdu3V_F9OXrPT70LfcZIDG6vJeaa8h3BI-PoLyko-4eAHZcKnv9BAkTH0YSoY) PW: 2B&=2@*@ | |
 | 2  | 2a. Dynamic Programming | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/18kpNbLOtXNLeaeV0xzfXqorGYHKeaa8hCIX-_sMmUrFWuA2JThxmQodgJWLND4q) PW: 3F*1rg%? | [LEC2a Notes](LEC/LEC2a.pdf) |
-|   | 2b. Case Study: Linear Quadratic Regulator (LQR)  | Scott Moura   | | |
+|   | 2b. Case Study: Linear Quadratic Regulator (LQR)  | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/5f5_FpeqrVNJaZ3ixmWFXYkFEaDjaaa81iQdq6VbnUkaRrxRLV0VSB3GaHybWp3T) PW: 5Y#4=58& | [LEC2b Notes](LEC/LEC2b.pdf) |
 | 3  | 3a. Policy Iteration & Value Iteration | Scott Moura   | | |
 |   | 3b. Case Study: LQR   | Scott Moura   | | |
 | 4  | 4a. Approximate DP: TD Error & Value Function Approx. | Scott Moura   | | |
