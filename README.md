@@ -20,9 +20,9 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 ### Day-by-Day Schedule
 
-| Day         | Topic       | Speaker | Pre-recorded Lecture | In-class Discussion |
+| Day         | Topic       | Speaker | Pre-recorded Lecture | Slides / Notes |
 | :---        |    :----    |   :---  | :---: | :---: |
-| 1  | 1a. Introduction - Course Org | Scott Moura   | [Zoom Recording](https://zoom.com.cn/rec/share/u814Do2uqXNLeKfozUzjZZxmQb_Laaa82iNK8_JZmEeig-Z1PuncW5UlR3m_LxjL) PW: 1e*OV@Re | |
+| 1  | 1a. Introduction - Course Org | Scott Moura   | [Zoom Recording](https://zoom.com.cn/rec/share/u814Do2uqXNLeKfozUzjZZxmQb_Laaa82iNK8_JZmEeig-Z1PuncW5UlR3m_LxjL) PW: 1e*OV@Re | [LEC1a Slides](LEC/LEC1a-Syllabus.pdf) |
 |   | 1b. Introduction – History of RL  | Scott Moura   | | |
 |   | 1c. Optimal Control Intro  | Scott Moura   | | |
 | 2  | 2a. Dynamic Programming | Scott Moura   | | |
