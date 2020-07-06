@@ -3,9 +3,9 @@
 Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley Shenzhen Institute (TBSI).
 
 ### Instructors
-Prof. Scott Moura (UC Berkeley)
-Co-Instructor Saehong Park (UC Berkeley)
-TA Xinyi Zhou (TBSI)
+- Prof. Scott Moura (UC Berkeley)
+- Co-Instructor Saehong Park (UC Berkeley)
+- TA Xinyi Zhou (TBSI)
 
 ### Course Schedule
 
