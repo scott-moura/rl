@@ -27,8 +27,9 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 1c. Optimal Control Intro  | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/w9dtdu3V_F9OXrPT70LfcZIDG6vJeaa8h3BI-PoLyko-4eAHZcKnv9BAkTH0YSoY) PW: 2B&=2@*@ | |
 | 2  | 2a. Dynamic Programming | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/18kpNbLOtXNLeaeV0xzfXqorGYHKeaa8hCIX-_sMmUrFWuA2JThxmQodgJWLND4q) PW: 3F*1rg%? | [LEC2a Notes](LEC/LEC2a.pdf) |
 |   | 2b. Case Study: Linear Quadratic Regulator (LQR)  | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/5f5_FpeqrVNJaZ3ixmWFXYkFEaDjaaa81iQdq6VbnUkaRrxRLV0VSB3GaHybWp3T) PW: 5Y#4=58& | [LEC2b Notes](LEC/LEC2b.pdf) |
-| 3  | 3a. Policy Iteration & Value Iteration | Scott Moura   | | |
-|   | 3b. Case Study: LQR   | Scott Moura   | | |
+| 3  | 3a. Policy Evaluation & Policy Improvement | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/wO1FDuzU3T1JSKPExkjWf6kFEoTiX6a80SVP-PQKmE2BWrgjbS83xsz27WcivvFR) PW: 9N@%H4&@ | [LEC3a Notes](LEC/LEC3a.pdf) |
+|   | 3b. Policy Iteration Algo   | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/19NxfpLS9l9LY5GcwmbkaLIuFIr4T6a82yFI_voNy0pVtbAW0hMvT1O-lN-t8rgM) PW: 6y+!+6#9 | [LEC3b Notes](LEC/LEC3b.pdf) |
+|   | 3c. Case Study: LQR   | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/3-1oDunf1k1JTs_h7WuOa409ONnLaaa8gCFIr_IJmBkxlev6szns32PnTIYtOmVU) PW: 6D@YkC&= | [LEC3c Notes](LEC/LEC3c.pdf) |
 | 4  | 4a. Approximate DP: TD Error & Value Function Approx. | Scott Moura   | | |
 |   | 4b. Case Study: LQR   | Scott Moura   | | |
 |   | 4c. Online RL with ADP | Scott Moura   | | |
@@ -47,7 +48,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 2. Dynamic Programming
    1. Principal of Optimality & Value Functions
       - Case Study: Linear Quadratic Regulator (LQR)
-3. Policy Iteration & Value Iteration
+3. Policy Evaluation & Policy Improvement
+   1. Policy Iteration Algo & Variants
    - Case Study: LQR
 4. Approximate Dynamic Programming (ADP)
    1. Temporal Difference (TD) Error
