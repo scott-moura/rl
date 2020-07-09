@@ -32,7 +32,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 3c. Case Study: LQR   | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/3-1oDunf1k1JTs_h7WuOa409ONnLaaa8gCFIr_IJmBkxlev6szns32PnTIYtOmVU) PW: 6D@YkC&= | [LEC3c Notes](LEC/LEC3c.pdf) |
 | 4  | 4a. Approximate DP: TD Error & Value Function Approx. | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/_e1cIIvA50NLcoXO1FCPWo4sIoPVX6a82yUW-qVfyUtH6zOaO86RFhE_QuSJfwJQ) PW: 6v&78$We | [LEC4a Notes](LEC/LEC4a.pdf) |
 |   | 4b. Case Study: LQR   | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/5edacpvq23JOcomcr2XYVpY4Pq29aaa8hCZKqKUPmEy1q8Nx_a72s8_JfPj5I_Vf) PW: 1O^fh.8+ | [LEC4b Notes](LEC/LEC4b.pdf) |
-|   | 4c. Online RL with ADP | Scott Moura   | | |
+|   | 4c. Online RL with ADP | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/vsdeI7_LyUNOTaOct2bBeqUfJN6-eaa8hiNM-qEEmhppZHbVUeF4b4yWrDPpWa7I) PW: 0q=.4378 | [LEC4c Notes](LEC/LEC4c.pdf) |
 | 5 | 5a. Actor-Critic Method | Scott Moura   | | |
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | |
 | 6 | 6a. Q-Learning | Saehong Park  | | |
