@@ -37,10 +37,10 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | |
 | 6 | 6a. Q-Learning | Saehong Park  | | |
 |   | 6b. Q-Learning / Policy Gradient | Saehong Park   | | |
-| 7 | 7a. Policy Gradient / Actor-Critic | Saehong Park  | | |
-|   | 7b. Actor-Critic | Saehong Park   | | |
-| 8 | 8a. RL for Energy Systems | Saehong Park  | | |
-|   | 8b. Case Study: Battery Fast-charging | Saehong Park   | | |
+| 7 | 7a. Policy Gradient | Saehong Park  | | |
+|   | 7b. Policy Gradient / Actor-Critic | Saehong Park   | | |
+| 8 | 8a. Actor-Critic | Saehong Park  | | |
+|   | 8b. RL for Energy Systems: Battery Fast-charging | Saehong Park   | | |
 
 
 ### Topic Outline
