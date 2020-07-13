@@ -33,8 +33,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 4  | 4a. Approximate DP: TD Error & Value Function Approx. | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/_e1cIIvA50NLcoXO1FCPWo4sIoPVX6a82yUW-qVfyUtH6zOaO86RFhE_QuSJfwJQ) PW: 6v&78$We | [LEC4a Notes](LEC/LEC4a.pdf) | [Recording Link](https://zoom.com.cn/rec/share/ysJzKpDR2k1JGIX88BziRf8CBK2iT6a8hHUWr6UOyBk5KEiJOhidnM24_iYBESJX) PW: 4t=#ye7T |
 |   | 4b. Case Study: LQR   | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/5edacpvq23JOcomcr2XYVpY4Pq29aaa8hCZKqKUPmEy1q8Nx_a72s8_JfPj5I_Vf) PW: 1O^fh.8+ | [LEC4b Notes](LEC/LEC4b.pdf) |  |
 |   | 4c. Online RL with ADP | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/vsdeI7_LyUNOTaOct2bBeqUfJN6-eaa8hiNM-qEEmhppZHbVUeF4b4yWrDPpWa7I) PW: 0q=.4378 | [LEC4c Notes](LEC/LEC4c.pdf) | |
-| 5 | 5a. Actor-Critic Method | Scott Moura   | | | |
-|   | 5b. Case Study: Offshore Wind | Scott Moura   | | | |
+| 5 | 5a. Actor-Critic Method | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/1etNEpLA5ElJWI3syWLVQpY9G6_0aaa8gCAc-fMMy04P1Zy-hyxVZ4zMq3IUY1Sx) PW: 2y!@@#$7 | [LEC5a Notes](LEC/LEC5a.pdf) | |
+|   | 5b. Case Study: Offshore Wind | Scott Moura   | | [LEC5b Notes](LEC/LEC5b.pdf) | |
 | 6 | 6a. Q-Learning | Saehong Park  | | | |
 |   | 6b. Q-Learning / Policy Gradient | Saehong Park   | | | |
 | 7 | 7a. Policy Gradient / Actor-Critic | Saehong Park  | | | |
