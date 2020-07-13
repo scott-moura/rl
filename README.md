@@ -76,6 +76,10 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 - [2019 Lecture Notes](Notes/LectureNotes_2019.pdf)
 
 
+### Jupyter Notebook
+- [Tenrsorflow review](TF_1.X_review-Shared.ipynb) [Updated 2020-8-11]
+
+
 <!--
 ### Markdown
 
