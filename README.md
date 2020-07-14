@@ -37,6 +37,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | [LEC5b Notes](LEC/LEC5b.pdf) | |
 | 6 | 6a. Markov Decision Process | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/2ZR8PrjP7nxOQpHHxkbHZ7d4F4C1eaa81XJL-aUMyk3thCUnngiGNtgzFY0jEwGk) PW:5L=*%&2i | [LEC6 Notes](LEC/LEC06.pdf) | |
 |   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | |
+|   | 6c. Policy Optimization | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC06.pdf)| |
 | 7 | 7a. Policy Gradient | Saehong Park  | | | |
 |   | 7b. Actor-Critic | Saehong Park   | | | |
 | 8 | 8a. RL for Energy Systems | Saehong Park  | | | |
