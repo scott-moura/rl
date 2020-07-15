@@ -36,8 +36,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 | 5 | 5a. Actor-Critic Method | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/1etNEpLA5ElJWI3syWLVQpY9G6_0aaa8gCAc-fMMy04P1Zy-hyxVZ4zMq3IUY1Sx) PW: 2y!@@#$7 | [LEC5a Notes](LEC/LEC5a.pdf) | [Recording Link](https://zoom.com.cn/rec/share/wNx4LL_N1URJZLPd2UGOHbAgELT9aaa8hidPr6YMyUmB6zYifcjslipXrzF2VVd0) PW: 1Z^6B28+ |
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | [LEC5b Notes](LEC/LEC5b.pdf) | |
 | 6 | 6a. Markov Decision Process | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/2ZR8PrjP7nxOQpHHxkbHZ7d4F4C1eaa81XJL-aUMyk3thCUnngiGNtgzFY0jEwGk) PW:5L=*%&2i | [LEC6 Notes](LEC/LEC6.pdf) | |
-|   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | |
-|   | 6c. Policy Optimization | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC7a.pdf)| |
+|   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | | 
+|   | 6c. Policy Optimization | Saehong Park   | [Zoom Recording](zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5LXroH9v1y3FHM3V5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC7a.pdf)| |
 | 7 | 7a. Policy Gradient | Saehong Park  | | | |
 |   | 7b. Actor-Critic | Saehong Park   | | | |
 | 8 | 8a. RL for Energy Systems | Saehong Park  | | | |
