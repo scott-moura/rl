@@ -35,8 +35,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 4c. Online RL with ADP | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/vsdeI7_LyUNOTaOct2bBeqUfJN6-eaa8hiNM-qEEmhppZHbVUeF4b4yWrDPpWa7I) PW: 0q=.4378 | [LEC4c Notes](LEC/LEC4c.pdf) | |
 | 5 | 5a. Actor-Critic Method | Scott Moura   | [Zoom Recording](https://berkeley.zoom.us/rec/share/1etNEpLA5ElJWI3syWLVQpY9G6_0aaa8gCAc-fMMy04P1Zy-hyxVZ4zMq3IUY1Sx) PW: 2y!@@#$7 | [LEC5a Notes](LEC/LEC5a.pdf) | [Recording Link](https://zoom.com.cn/rec/share/wNx4LL_N1URJZLPd2UGOHbAgELT9aaa8hidPr6YMyUmB6zYifcjslipXrzF2VVd0) PW: 1Z^6B28+ |
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | [LEC5b Notes](LEC/LEC5b.pdf) | |
-| 6 | 6a. Markov Decision Process | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/2ZR8PrjP7nxOQpHHxkbHZ7d4F4C1eaa81XJL-aUMyk3thCUnngiGNtgzFY0jEwGk) PW:5L=*%&2i | [LEC6 Notes](LEC/LEC6.pdf) | |
-|   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | | 
+| 6 | 6a. Markov Decision Process | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/2ZR8PrjP7nxOQpHHxkbHZ7d4F4C1eaa81XJL-aUMyk3thCUnngiGNtgzFY0jEwGk) PW:5L=*%&2i | [LEC6 Notes](LEC/LEC6.pdf) | [Recording Link](https://zoom.com.cn/rec/share/1dNuKfLtznhIabfM8UaPdbQnN77nX6a8gylL-KAIzhxvbufxFZY2c-aBUWIzCmWn) PW: 4L*=91?@ |
+|   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | |
 |   | 6c. Policy Optimization | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5LXroH9v1y3FHM3V5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC7a.pdf)| |
 | 7 | 7a. Policy Gradient | Saehong Park  | | | |
 |   | 7b. Actor-Critic | Saehong Park   | | | |
@@ -63,6 +63,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
    1. Q-learning algorithm
    2. Advanced Q-learning algorithm, i.e., DQN
 6. Policy Gradient
+   
    1. Vanilla policy gradient (REINFORCE)
 7. Actor-Critic using Policy Gradient
    1. Actor-Critic using Policy Gradient
