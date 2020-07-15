@@ -73,7 +73,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
    
 
 ### Lectures Notes
-- [2020 Lecture Notes](Notes/LectureNotes_2020.pdf) [Updated 2020-7-14]
+- [2020 Lecture Notes](Notes/LectureNotes_2020.pdf) [Updated 2020-7-15]
 - [2019 Lecture Notes](Notes/LectureNotes_2019.pdf)
 
 
