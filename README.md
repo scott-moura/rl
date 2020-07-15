@@ -37,11 +37,11 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 5b. Case Study: Offshore Wind | Scott Moura   | | [LEC5b Notes](LEC/LEC5b.pdf) | |
 | 6 | 6a. Markov Decision Process | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/2ZR8PrjP7nxOQpHHxkbHZ7d4F4C1eaa81XJL-aUMyk3thCUnngiGNtgzFY0jEwGk) PW:5L=*%&2i | [LEC6 Notes](LEC/LEC6.pdf) | [Recording Link](https://zoom.com.cn/rec/share/1dNuKfLtznhIabfM8UaPdbQnN77nX6a8gylL-KAIzhxvbufxFZY2c-aBUWIzCmWn) PW: 4L*=91?@ |
 |   | 6b. Q-Learning | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/2MFYKrT5ykRIW7OUzG_7YZN-N735aaa81XdMrPsKyE8QdZcr9EjNqwZkd_KERVFl) PW: 3K!+fj^V | | |
-|   | 6c. Policy Optimization | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5LXroH9v1y3FHM3V5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC7a.pdf)| |
-| 7 | 7a. Policy Gradient | Saehong Park  | | | |
-|   | 7b. Actor-Critic | Saehong Park   | | | |
-| 8 | 8a. RL for Energy Systems | Saehong Park  | | | |
-|   | 8b. Case Study: Battery Fast-charging | Saehong Park   | | | |
+|   | 7a. Policy Optimization | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/zut_CZiz9GFJbZ3My1DeVLMATrvseaa823UX_adZyUhU1pl5LXroH9v1y3FHM3V5) PW: 0W$fa0$M | [LEC7a Notes](LEC/LEC7a.pdf)| |
+| 7 | 7b. Policy Gradient | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/7MtMLfby2H5JU4nmx3PEYpUnMq_iX6a8gCgY-qVZmkhfYjdA-sPlirsw5K_QRCB7) PW: 2N++5&I3 | [LEC7a Notes](LEC/LEC7a.pdf) | |
+|   | 7c. Policy Gradient | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/y_RbJPb1zHhLHJ3i1WaDA7wlOKHGT6a81ndNrvoJmRoPmZBU5SdDoMSWR2OBqPuy) PW: 3j%n80**| [LEC7a Notes](LEC/LEC7a.pdf) | |
+| 8 | 8a. Actor Critic | Saehong Park  | | | |
+|   | 8b. RL for Energy Systems: Battery Fast-charging | Saehong Park   | | | |
 
 
 ### Topic Outline
