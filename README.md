@@ -63,8 +63,8 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
    1. Q-learning algorithm
    2. Advanced Q-learning algorithm, i.e., DQN
 6. Policy Gradient
-   
-   1. Vanilla policy gradient (REINFORCE)
+   1. Policy Optimization
+   2. Vanilla policy gradient (REINFORCE)
 7. Actor-Critic using Policy Gradient
    1. Actor-Critic using Policy Gradient
    2. Advanced Actor-Critic algorithm, i.e., DDPG
