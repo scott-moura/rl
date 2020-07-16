@@ -42,8 +42,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 |   | 7c. Policy Gradient | Saehong Park   | [Zoom Recording](https://berkeley.zoom.us/rec/share/y_RbJPb1zHhLHJ3i1WaDA7wlOKHGT6a81ndNrvoJmRoPmZBU5SdDoMSWR2OBqPuy) PW: 3j%n80**| [LEC7c Notes](LEC/LEC7c.pdf) | |
 | 8 | 8a. Actor Critic | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/zsVxI-nBqHxJXZHW8lCEZqsmA7Xgeaa8gXRN-PEIy0gqBdwuFM-MS0-wMvzd1SuS) PW: 2F!WI9$8 | [LEC8a Notes](LEC/LEC7c.pdf)| |
 |   | 8b. Actor Critic | Saehong Park   | [Zoom Recording](http://berkeley.zoom.us/rec/share/5sNfPqv61V1OE4Xi-EDxSqoZH4TKaaa8gyZMqfoOzhx2cl3VxxOoQz3itQ8b_NBS) PW: 9r$HH%59 | [LEC8b Notes](LEC/LEC7c.pdf)| |
-|   | 8c. RL for Energy Systems: Battery Fast-charging | Saehong Park  | [Zoom Recording](http://berkeley.zoom.us/rec/share/5sNfPqv61V1OE4Xi-EDxSqoZH4TKaaa8gyZMqfoOzhx2cl3VxxOoQz3itQ8b_NBS) PW: 9r$HH%59| [LEC Notes](LEC/LEC7c.pdf) | |
-
+|   | 8c. RL for Energy Systems: Battery Fast-charging | Saehong Park  | [Zoom Recording](https://berkeley.zoom.us/rec/share/5sNfPqv61V1OE4Xi-EDxSqoZH4TKaaa8gyZMqfoOzhx2cl3VxxOoQz3itQ8b_NBS?startTime=1594928322000) PW: 9r$HH%59| [LEC Notes](LEC/LEC7c.pdf) | |
 ### Topic Outline
 1. Optimal Control
 2. Dynamic Programming
