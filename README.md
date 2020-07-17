@@ -79,7 +79,7 @@ Welcome! This course is jointly taught by UC Berkeley and the Tsinghua-Berkeley 
 
 ### Jupyter Notebook
 - [Tenrsorflow review](TF_1.X_review-Shared.ipynb) [Updated 2020-7-12]
-
+- [Homework](hw1-PolicyGrad.ipynb) [Updated 2020-7-16]
 
 <!--
 ### Markdown
